@@ -8,3 +8,4 @@ The development of this project took place throughout the 2020-2 semester in the
   >https://www.canva.com/design/DAEKgfS_MKI/hnJN8JbU5hUbtHEILQB-sg/view?utm_content=DAEKgfS_MKI&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
 
 This project, being very large, was divided into two parts, the backend and the frontend, in this repository we focus mainly on the backend, if you are interested in knowing how the frontend was generated, you can visit Erick Casrañeda's repository in the following link
+ >https://github.com/erickcm2k/OODesignAndAnalysis
