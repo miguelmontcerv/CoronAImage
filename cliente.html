@@ -13,7 +13,7 @@
 <body ng-app="myApp" ng-cloak bgcolor="black" ng-controller="myCtrl" layout="column">
   <md-toolbar>
     <div class="md-toolbar-tools">
-      <span>Clasificar Imagen</span>
+      <span>Clasificar Imagen CORONAIMAGE</span>
     </div>
   </md-toolbar>
 
@@ -80,7 +80,7 @@
 
     app.controller('myCtrl', ['$scope', '$http',
       function($scope, $http) {
-        $scope.rp = "<directory>";  //ERIIICK, Aqui pon la direccion de la API, cuando usas GOOGLE CLOUD es http://237.123.123:5000 Es muy importante que sea el puerto 5000, ok?
+        $scope.rp = "http://34.68.115.100:5000";  //ERIIICK, Aqui pon la direccion de la API, cuando usas GOOGLE CLOUD es http://34.68.115.100:5000 Es muy importante que sea el puerto 5000, ok?
         $scope.loading = false;
         $scope.success = false;
       	$scope.error = false;
