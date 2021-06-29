@@ -1,4 +1,8 @@
 # CoronAImage
+## Object-Oriented Analysis and Design
+## Monteros Cervantes Miguel Angel
+**Score: 10**  
+**Teacher: Martha Rosa Cordero**
 ### Puedes ver la API REST funcionando en el siguiente link 
 ### https://coronaimage.vercel.app/
  This is the first official project on Artificial Intelligence that he carried out, the main objective of the project is to calculate the possibility of having **Coronavirus** based on a chest x-ray
